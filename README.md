@@ -106,4 +106,3 @@ To set up the project locally, follow these steps:
 Enjoy exploring the interactive graph visualization!
 
 # graph-visualization-application
-# graph-visualization-application
